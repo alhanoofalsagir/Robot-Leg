@@ -20,7 +20,7 @@ The calculation done by using the rule bellow:
 `Theta = tan^-1 * (adjacent /  opposite)`
 
 ### Result:
-<img src="Maximum degree_page-0001.jpg" width=550>
+<img src="Maximum_degree.jpg" width=550>
 
 
  
