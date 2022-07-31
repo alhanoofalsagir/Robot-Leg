@@ -1,4 +1,4 @@
-# Mech-Eng first & second Tasks 🗣: <br />
+# Mech-Eng First Task🗣: <br />
 
 ## Task 1: Robot legs stick model🦿
 
